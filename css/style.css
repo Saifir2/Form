@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    width: 700;
+}
+header{
+        box-shadow: 3px 3px 3px #a8c0d2;
+    margin-bottom: 3px;
+
+background: #5CBAFF;
+}
+header nav{
+
+padding: 15px 0;
+}
+header nav ul{
+    display: flex;
+    width: 29%;
+    margin: auto;
+    list-style: none;
+    justify-content: space-between;
+}
+header nav ul li{
+}
+header nav ul li a{
+    
+color: white;
+    
+text-decoration: none;
+    
+font-size: 20px;
+    
+font-weight: 300;
+}
+.content{
+
+display: flex;
+
+justify-content: center;
+}
+
+.left_content{
+
+height: 800px;
+
+width: 40%;
+
+background: #5cbaff;
+}
+.left_content img{
+    
+width: 650px;
+}
+.right_form{
+
+
+}
+.right_content{
+
+width: 60%;
+
+background: #0092ff;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+}
+.main_content{
+
+width: 37%;
+}
+
+.right_form{
+
+}
+.right_form h1{
+
+color: white;
+
+font-size: 36px;
+}
+.right_form p{
+
+color: white;
+
+padding: 20px 0;
+}
+.right_form h4{
+
+color: white;
+
+padding-bottom: 20px;
+}
+.right_form form{
+
+}
+.right_form form input{
+
+width: 100%;
+
+margin: 5px 0;
+
+padding: 8px 0 8px 5px;
+}
+
+
+.bottom_menu{
+
+}
+.bottom_menu nav{
+
+}
+.bottom_menu nav ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-between;
+
+padding-top: 44px;
+
+width: 85%;
+
+text-transform: capitalize;
+}
+.bottom_menu nav ul li{
+    
+color: white;
+}
+
+.right_form form input[type='submit'] {
+
+width: 24%;
+
+text-align: center;
+
+padding-left: 0;
+}
+
+.bottom_menu nav ul li:first-child{
+    color: rgb(182, 221, 226);
+}
